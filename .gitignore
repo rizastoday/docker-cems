@@ -1,0 +1,17 @@
+/.vscode
+/logs/*
+/www/source/writable/cache/*
+!/www/source/writable/cache/index.html
+
+/www/source/writable/logs/*
+!/www/source/writable/logs/index.html
+
+/www/source/writable/session/*
+!/www/source/writable/session/index.html
+
+/www/source/writable/uploads/*
+!/www/source/writable/uploads/index.html
+
+/www/source/writable/debugbar/*
+.DS_Store
+/buildtest
